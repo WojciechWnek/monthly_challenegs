@@ -21,7 +21,7 @@ monthly_challenges = {
   "september": "Practice Django",
   "october": "Eat no meat",
   "november": "Walk 20 min",
-  "december": "Practice Django",
+  "december": None,
 }
 
 def index(request):
